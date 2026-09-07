@@ -1,0 +1,5 @@
+Cybersecurity practitioner with a deep foundation in Computer Networks the layer where most attacks begin and most defenders fall short.
+Ranked 49th out of 500+ in the KAUST Cyverse assessment, achieving a full score (16/16 flags) with challenges including live PCAP traffic analysis using Wireshark. Selected among the top 500 from 3,000+ applicants in the NCA 2026 National Training Program (Top 15%).
+eJPT certified with hands-on experience in vulnerability assessment, network exploitation, and network protocol analysis.
+Currently expanding expertise in Incident Response and preparing for eSOC certification.
+Open to Co-op opportunities in cybersecurity for 2026.
